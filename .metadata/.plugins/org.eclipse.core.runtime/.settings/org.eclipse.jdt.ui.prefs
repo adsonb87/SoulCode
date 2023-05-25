@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="oo.Colaborador"><rhs name\="oo.Colaborador"/></lhs><lhs name\="conta_bancaria.Conta"><rhs name\="conta_bancaria.Conta"/></lhs><lhs name\="heranca.Pessoa"><rhs name\="heranca.Funcionario"/></lhs><lhs name\="heranca.Funcionario"><rhs name\="heranca.Funcionario"/></lhs><lhs name\="polimorfismo.Transporte"><rhs name\="polimorfismo.Transporte"/><rhs name\="polimorfismo.Veiculo"/></lhs><lhs name\="polimorfismo.Veiculo"><rhs name\="polimorfismo.Veiculo"/></lhs><lhs name\="classes_abstratas.Animal"><rhs name\="classes_abstratas.Cavalo"/></lhs><lhs name\="classes_abstratas.Cavalo"><rhs name\="classes_abstratas.Cavalo"/></lhs><lhs name\="model.Conexaobd"><rhs name\="model.Conexaobd"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
